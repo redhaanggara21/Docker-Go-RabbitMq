@@ -1,5 +1,5 @@
 # docker-go-rabbitmq
-save the architect
+save looking from some problem thing must to have done. clean the the architect first i need clearing how to make effective thing to some projects
 
 # go-rabbit
 this rabbitMQ sample on golang, used on my presentation
