@@ -16,5 +16,5 @@ this rabbitMQ sample on golang, used on my presentation
 
  - Run as publisher `./out/go-rabbit subscribe` in another terminal
  
- #learn from this video, need to compare how the rabbit running as wall
+ #learn from this video, gojek research need to know and compare how the rabbit running as well
  https://www.youtube.com/watch?v=l_SgYpDu3JQ&t=2261s
