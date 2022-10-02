@@ -1,5 +1,5 @@
 # docker-go-rabbitmq
-save the architect
+analys the architect
 
 # go-rabbit
 this rabbitMQ sample on golang, used on my presentation
